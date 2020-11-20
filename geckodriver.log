@@ -1,0 +1,81 @@
+1603557843616	geckodriver	INFO	Listening on 127.0.0.1:49217
+1603557846760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nalin\\AppData\\Local\\Temp\\rust_mozprofile0efdWr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603557852240	Marionette	INFO	Listening on port 49229
+1603557852618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603557854091	Marionette	INFO	Stopped listening on port 49229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603557856146	geckodriver	INFO	Listening on 127.0.0.1:49288
+1603557859268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nalin\\AppData\\Local\\Temp\\rust_mozprofileWPj7mt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603557864840	Marionette	INFO	Listening on port 49297
+1603557864889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603557870679	Marionette	INFO	Stopped listening on port 49297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603562339512	geckodriver	INFO	Listening on 127.0.0.1:51559
+1603562342658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nalin\\AppData\\Local\\Temp\\rust_mozprofilepw2377"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603562353510	Marionette	INFO	Listening on port 51575
+1603562353789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603562360218	Marionette	INFO	Stopped listening on port 51575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603564011644	geckodriver	INFO	Listening on 127.0.0.1:52004
+1603564014728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nalin\\AppData\\Local\\Temp\\rust_mozprofilePV4jby"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603564021194	Marionette	INFO	Listening on port 52020
+1603564021285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603564027599	Marionette	INFO	Stopped listening on port 52020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603564065072	geckodriver	INFO	Listening on 127.0.0.1:52108
+1603564068132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nalin\\AppData\\Local\\Temp\\rust_mozprofile30tHI6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603564074484	Marionette	INFO	Listening on port 52121
+1603564074497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603564079563	Marionette	INFO	Stopped listening on port 52121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+annel] Error: (msgtype=0x3900C2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900C2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900C2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
